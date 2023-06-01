@@ -1,6 +1,6 @@
 # Repositório de Estudos
 
-Este repositório contém soluções para uma série de exercícios de algoritmos. Os exercícios foram resolvidos com base nas instruções fornecidas pelo Prof. Gustavo Guanabara.
+Este repositório contém soluções para uma série de exercícios de algoritmos, resolvidos usando o VisualG. Os exercícios foram resolvidos com base nas instruções fornecidas pelo Prof. Gustavo Guanabara.
 
 ## Material de Estudo
 
